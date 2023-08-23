@@ -11,5 +11,5 @@ You can use any browser 🌐 to visit my site
 
 # <h3 align='center'><a href="https://mv9cdr3bwbz7faw253ypjw.streamlit.app/">Visit Site</a></h3>
 <pre>
-                                                      Made by ♥ Dheeraj Pyasi
+                                         Made by ♥ Dheeraj Pyasi
 </pre>
