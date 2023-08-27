@@ -34,5 +34,5 @@ By developing a Streamlit-based CAPM project, you've bridged the gap between the
 
 # <h3 align='center'><a href="https://mv9cdr3bwbz7faw253ypjw.streamlit.app/">Visit Site</a></h3>
 <pre>
-                                                    Made by ♥ Dheeraj Pyasi
+                                              Made by ♥ Dheeraj Pyasi
 </pre>
