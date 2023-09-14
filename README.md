@@ -1,6 +1,6 @@
 # <h1 align='center'>Capital Asset Pricing Model</h1>
 <p align='center'>
-You can use any browser 🌐 to visit my site
+You can use any browser ⚙ to visit my site
 </p>
 <ul>
    <li>Chrome <strong>(recommended)</strong></li> 
